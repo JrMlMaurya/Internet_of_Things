@@ -14,4 +14,4 @@ Simulate the FreeRTOS task creation with hardware (HW) using the Wokwi Platform 
 
 
 
-#######*This is my course work for my Internet of Things course
+*This is my course work for my Internet of Things course*
